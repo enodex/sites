@@ -2,11 +2,11 @@
     {
         "name": "Planq",
         "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png",
-        "url": "./projects/index.html"
+        "url": "./mainnet/planq/index.html"
     },
     {
         "name": "Dyson",
         "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg",
-        "url": "https://explorer.enodex.lol"
+        "url": "./mainnet/dyson/index.html"
     }
 ]
