@@ -111,8 +111,7 @@ function showProjects(projects) {
     let projectHTML = "";
     projects.slice(0, 6).forEach(project => {
         projectHTML += `
-        <div class="bar">
-         <div class="info">
+        <div class="tilt">
       <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
@@ -125,7 +124,6 @@ function showProjects(projects) {
             <a href="${project.links.code}" class="btn" >Get In <i class="fas fa-code"></i></a>
           </div>
         </div>
-      </div>
       </div>
     </div>`
     });
