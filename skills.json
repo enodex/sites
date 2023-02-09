@@ -5,8 +5,9 @@
         "url": "https://explorer.enodex.lol"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Dyson",
+        "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg",
+        "url": "https://explorer.enodex.lol"
     },
     {
         "name": "NodeJS",
