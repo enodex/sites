@@ -1080,6 +1080,11 @@ form .button-area {
 .button-area button:hover {
   background: #421cecf5;
 }
+a:link, a:visited {
+  color: (internal value);
+  text-decoration: underline;
+  cursor: auto;
+}
 .button-area span {
   font-size: 17px;
   padding: 1rem;
