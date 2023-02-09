@@ -99,11 +99,12 @@ function showSkills(skills) {
                 <img src=${skill.icon} alt="skill" height="45%" width="45%" />
                 <a class="btn" href=${skill.url} style="color:#FFFFFF;"><span>${skill.name}</span></a>
               </div>
+              <div class="btns">
+            <a href="${skill.url}" class="btn" target="_blank"><i class="fas fa-eye"></i><span> Stake</span></a>
+            <a href="${skill.url}" class="btn" ><span>Get In <i class="fas fa-code"></i></span></a>
+          </div>
             </div>
-            <div class="btns">
-            <a href="${skill.url}" class="btn" target="_blank"><i class="fas fa-eye"></i> Stake</a>
-            <a href="${skill.url}" class="btn" >Get In <i class="fas fa-code"></i></a>
-          </div>`
+            `
         
     });
     skillsContainer.innerHTML = skillHTML;
