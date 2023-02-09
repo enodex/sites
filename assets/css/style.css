@@ -699,7 +699,8 @@ background-color: rgba(255, 255, 255, 0.258);
 .work .box-container .box img {
   height: 100%;
   width: 100%;
-  object-fit: none;
+  object-fit: contain;
+  display: flex;
 }
 .work .box-container .box .content {
   height: 100%;
