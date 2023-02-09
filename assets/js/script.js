@@ -97,9 +97,9 @@ function showSkills(skills) {
         <div class="bar">
               <div class="info">
                 <img src=${skill.icon} alt="skill" height="50%" width="50%" />
-                <span onclick="window.location.href='".${skill.url}."'">${skill.name}</span>
+                <a class="btn" href=${skill.url}> Get In </a<span onclick="window.location.href='".${skill.url}."'">${skill.name}</span>
               </div>
-              <a class="btn text-center" href=${skill.url}> Get In </a>
+              
             </div>`
         
     });
