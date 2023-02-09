@@ -2,7 +2,7 @@
     {
         "name": "Planq",
         "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png",
-        "url": "./mainnet/planq/index.html"
+        "url": "https://sites-nu.vercel.app/mainnet/installan"
     },
     {
         "name": "Dyson",
