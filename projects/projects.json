@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Full-stack Professional Service reactfolio com blog",
-    "desc": "Created this amazing professional portfolio com blog site using Sanity DB, Node backend and React front-end with Framer motion JS library animations👀😎✨✨...cool",
-    "image": "react-folio",
+    "name": "Dyson Protocol",
+    "desc": "The native staking and governance token of the Dyson Protocol",
+    "image": "dyson",
     "category": "mern",
     "links": {
-      "view": "https://devfolio-devashu.netlify.app/",
-      "code": "https://github.com/Ashutosh102/Full-stack-Professional_portfolio_com_blog"
+      "view": "https://explorer.enodex.lol/dyson/staking/dysvaloper1t4v8l6l435k5zj4sdvz0acxhzwt4lcjf4qm03v",
+      "code": "#home"
     }
   },
   {
