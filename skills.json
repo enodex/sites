@@ -2,7 +2,7 @@
     {
         "name": "Planq",
         "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png",
-        "url": "https://explorer.enodex.lol"
+        "url": "./projects/index.html"
     },
     {
         "name": "Dyson",
