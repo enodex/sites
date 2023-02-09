@@ -1,12 +1,12 @@
 [
   {
-    "name": "DABnity:- Social media",
-    "desc": "Full-Stack social media site built using MERN stack and realtime chat with the help of socket.iO with getstream and twilio chat APIs",
+    "name": "Planq Network",
+    "desc": "The native EVM, governance and staking token of the Planq Network",
     "image": "Dabnity",
     "category": "mern",
     "links": {
-      "view": "https://dabnity.netlify.app/",
-      "code": "https://github.com/Ashutosh102/DABnity_far_beyond_infinity"
+      "view": "https://restake.app/planq/plqvaloper1slh5eh4y80p8lcl6vnnncft6sswtcquppfelhh",
+      "code": "#home"
     }
   },
   {
