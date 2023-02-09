@@ -111,7 +111,7 @@ function showProjects(projects) {
     let projectHTML = "";
     projects.slice(0, 6).forEach(project => {
         projectHTML += `
-        <div class="tilt">
+        <div class="box tilt">
       <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
