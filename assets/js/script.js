@@ -98,7 +98,7 @@ function showSkills(skills) {
               <div class="info">
                 <img src=${skill.icon} alt="skill" height="45%" width="45%" />
                 <a class="btn" href=${skill.url} style="color:#FFFFFF;"><span>${skill.name}</span></a>
-            <a href="${skill.url}" class="btn" style="color:#FFFFFF;"><span>Get In <i class="fas fa-code"></i></span></a>
+            <a href="${skill.url}" class="items-center font-bold bg-blue-400 btn hover:bg-primary-400 md:pb-4 w-1/4" style="color:#FFFFFF;"><span>Get In <i class="fas fa-code"></i></span></a>
               </div>
             </div>
             `
