@@ -7,6 +7,6 @@
     {
         "name": "Dyson",
         "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg",
-        "url": "https://sites-nu.vercel.app/mainnet/dyson/"
+        "url": "./mainnet/dyson/"
     }
 ]
