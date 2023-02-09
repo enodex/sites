@@ -537,7 +537,7 @@ background-color: rgba(255, 255, 255, 0.258);
 .skills .container .bar .info i {
   font-size: 4rem;
 }
-.skills .container .bar .info bv{
+.skills .container .bar .info .bv{
 background-color: #FFFFFF; /* Green */
   border: 1px;
   color: white;
