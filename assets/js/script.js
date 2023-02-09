@@ -100,8 +100,8 @@ function showSkills(skills) {
                 <a class="btn" href=${skill.url} style="color:#FFFFFF;"><span>${skill.name}</span></a>
               </div>
               <div class="btns">
-            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> Stake</a>
-            <a href="${project.links.code}" class="btn" >Get In <i class="fas fa-code"></i></a>
+            <a href="${skill.url}" class="btn" target="_blank"><i class="fas fa-eye"></i> Stake</a>
+            <a href="${skill.url}" class="btn" >Get In <i class="fas fa-code"></i></a>
           </div>
             </div>`
         
