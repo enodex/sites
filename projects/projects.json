@@ -2,10 +2,10 @@
   {
     "name": "Planq Network",
     "desc": "The native EVM, governance and staking token of the Planq Network",
-    "image": "Dabnity",
+    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png",
     "category": "mern",
     "links": {
-      "view": "https://restake.app/planq/plqvaloper1slh5eh4y80p8lcl6vnnncft6sswtcquppfelhh",
+      "view": "https://explorer.enodex.lol/planq/staking/plqvaloper1slh5eh4y80p8lcl6vnnncft6sswtcquppfelhh",
       "code": "#home"
     }
   },
